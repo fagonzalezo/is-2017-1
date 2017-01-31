@@ -149,7 +149,6 @@ image:
 					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)<br>
 				</td>
 				<td>
-					<a href= "http://fagonzalezo.github.io/is-2016-1/assign3.pdf">Assignment 3</a><br>
 				</td>
 			</tr>
 
