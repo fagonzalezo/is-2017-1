@@ -1,7 +1,7 @@
-title: Intelligent Systems 2016-1
+title: Intelligent Systems 2017-1
 description: Universidad Nacional de Colombia, Bogotá
 sitename: Intelligent Systems
-baseurl: '/is-2016-1'
+baseurl: '/is-2017-1'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
