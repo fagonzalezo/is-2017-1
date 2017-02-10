@@ -35,9 +35,10 @@ image:
 				<td>
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>) <br>
 					[AI-edX] Agents and Search (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-2-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>
-					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/gh-pages/search_methods.ipynb">Python notebook</a>)<br>
+					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/search_methods.ipynb">Python notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/Assignment0.ipynb">Assignment 0</a>)
 				</td>
 			</tr>
 
@@ -47,7 +48,7 @@ image:
 				<td>
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>) <br>
 					[AI-edX] A* Search and Heuristics (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-3-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/76f9a53b7aad47638ff968db5938d841/">video</a>)<br>
-					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/gh-pages/search_methods.ipynb">Python notebook</a>)<br>
+					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/search_methods.ipynb">Python notebook</a>)<br>
 				</td>
 				<td>
 				</td>
@@ -62,7 +63,7 @@ image:
 				</td>
 				<td>
 					Adversarial search and games lab <br> 
-					(<a href= "https://github.com/fagonzalezo/is-2017-1/blob/gh-pages/games.ipynb">Python notebook</a>)<br>
+					(<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/games.ipynb">Python notebook</a>)<br>
 				</td>
 			</tr>
 
