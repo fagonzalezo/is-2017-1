@@ -51,6 +51,7 @@ image:
 					Search methods (<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/search_methods.ipynb">Python notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "https://fagonzalezo.github.io/is-2017-1/assign1.pdf">Assignment 1</a>
 				</td>
 			</tr>
 
