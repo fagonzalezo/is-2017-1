@@ -63,25 +63,24 @@ image:
 					[AI-edX] Game Trees: Minimax (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-6-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/8616451481ba41d4a40afcf13bc8ab1c/">video</a>)<br>
 				</td>
 				<td>
-					Adversarial search and games lab <br> 
-					(<a href= "https://github.com/fagonzalezo/is-2017-1/blob/master/games.ipynb">Python notebook</a>)<br>
-				</td>
-			</tr>
-
-			<tr>
-				<td>Mar 1</td>
-				<td>3.1 Probability
-				</td>
-				<td>
-					[Russell10] Chap 13 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter13.pdf">slides</a>)<br>
-					[AI-edX] Probability (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-12-1PP.pdf">slides</a>) (<a href= "hhttps://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/bca0c97c5e9d4913b90559168cfec0bb/">video</a>)<br>
-				</td>
-				<td>
+					<a href= "https://fagonzalezo.github.io/is-2017-1/assign2.pdf">Assignment 2</a>
 				</td>
 			</tr>
 
 			<tr>
 				<td>Mar 8</td>
+				<td>3.1 Probability
+				</td>
+				<td>
+					[Russell10] Chap 13 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter13.pdf">slides</a>)<br>
+					[AI-edX] Probability (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-12-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/bca0c97c5e9d4913b90559168cfec0bb/">video</a>)<br>
+				</td>
+				<td>
+				</td>
+			</tr>
+
+			<tr>
+				<td>Mar 16</td>
 				<td>
 					3.2 Probabilistic reasoning
 				</td>
@@ -94,13 +93,13 @@ image:
 			</tr>
 
 			<tr>
-				<td>Mar 15-22</td>
+				<td>Mar 22</td>
 				<td>
 					3.2 Probabilistic reasoning
 				</td>
 				<td>
 					[Russell10] Chap 14 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter14.pdf">slides</a>) <br>
-					[AI-edX] Bayes' Nets: Inference (<a href= "hhttp://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-14-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/099ecfc0a4c447e8a89f77e226c28232/">video</a>)<br>
+					[AI-edX] Bayes' Nets: Inference (<a href= "http://cs188websitecontent.s3.amazonaws.com/lectures/fa13-cs188-lecture-14-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/099ecfc0a4c447e8a89f77e226c28232/">video</a>)<br>
 					[AI-edX]Bayes' Nets: Sampling (<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-15-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/0a695682c2c347918416931f1234ee60/">video</a>)<br>
 					[Alp10] Chap 16 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap16-v1-0.pdf">slides</a>)<br>
 				</td>
@@ -115,7 +114,7 @@ image:
 				</td>
 				<td>
 					[Russell10] Chap 15 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter15.pdf">slides</a>) <br>
-					[AI-edX] HMMs(<a href= "hhttps://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-18-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/a35c9cc4ae394634b608525e18e9e69b/">video</a>)<br>
+					[AI-edX] HMMs(<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-18-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/a35c9cc4ae394634b608525e18e9e69b/">video</a>)<br>
 					[AI-edX] HMM Filtering(<a href= "https://s3-us-west-2.amazonaws.com/cs188websitecontent/lectures/sp16-cs188-lecture-19-1PP.pdf">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/af61c2eec13a48beba442a370c3bd83f/a35c9cc4ae394634b608525e18e9e69b/">video</a>)<br>
 					[Alp10] Chap 15 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap15-v1-0.pdf">slides</a>)<br>
 				</td>
