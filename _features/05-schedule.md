@@ -108,7 +108,7 @@ image:
 			</tr>
 
 			<tr>
-				<td>Mar 29</td>
+				<td>Apr 5</td>
 				<td>
 					3.3 Hidden Markov models
 				</td>
@@ -119,11 +119,12 @@ image:
 					[Alp10] Chap 15 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap15-v1-0.pdf">slides</a>)<br>
 				</td>
 				<td>
+					<a href= "https://fagonzalezo.github.io/is-2017-1/assign3.pdf">Assignment 3</a>
 				</td>
 			</tr>
 
 			<tr>
-				<td>Apr 5</td>
+				<td>Apr 19</td>
 				<td>
 					4.1 Supervised learning
 				</td>
