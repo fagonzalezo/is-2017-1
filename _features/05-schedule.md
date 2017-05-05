@@ -154,7 +154,7 @@ image:
 			</tr>
 
 			<tr>
-				<td>May 2</td>
+				<td>May 3</td>
 				<td>
 					4.3 Reinforcement learning
 				</td>
@@ -169,7 +169,7 @@ image:
 			</tr>
 
 			<tr>
-				<td>May 3</td>
+				<td>May 10</td>
 				<td>
 					4.3 Reinforcement learning
 				</td>

@@ -28,9 +28,9 @@ image:
 
 4 **Learning**
 
-4.1 Supervised learning
+4.1 Naïve Bayes
 
-4.2 Non-Supervised learning
+4.2 Neural Networks and Deep Learning
 
 4.3 Reinforcement learning
 
